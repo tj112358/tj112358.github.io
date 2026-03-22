@@ -1,12 +1,13 @@
 body {
   margin: 25px;
-  background-color: powderblue;
+  background-color: #ddffed;
   font-family: arial, sans-serif;
   font-size: 14px;
 }
 
 h1 {
   font-size: 35px;
-  font-weight: normal;
+  font-weight: bold;
   margin-top: 5px;
+  color: #520848
 }
